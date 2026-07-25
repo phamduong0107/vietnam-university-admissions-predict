@@ -1,0 +1,61 @@
+nam_hoc,tu_khoa,trend_score,ma_nganh_chuan
+2021,Công nghệ thông tin,40.33,IT
+2022,Công nghệ thông tin,61.0,IT
+2023,Công nghệ thông tin,57.08,IT
+2024,Công nghệ thông tin,56.58,IT
+2025,Công nghệ thông tin,53.42,IT
+2026,Công nghệ thông tin,51.14,IT
+2021,Kinh doanh,51.92,BIZ
+2022,Kinh doanh,63.25,BIZ
+2023,Kinh doanh,62.0,BIZ
+2024,Kinh doanh,63.75,BIZ
+2025,Kinh doanh,72.83,BIZ
+2026,Kinh doanh,82.0,BIZ
+2021,Kỹ thuật,57.17,ENG
+2022,Kỹ thuật,67.83,ENG
+2023,Kỹ thuật,62.17,ENG
+2024,Kỹ thuật,67.75,ENG
+2025,Kỹ thuật,68.75,ENG
+2026,Kỹ thuật,70.14,ENG
+2021,Y khoa,39.67,MED
+2022,Y khoa,46.58,MED
+2023,Y khoa,51.0,MED
+2024,Y khoa,57.42,MED
+2025,Y khoa,63.58,MED
+2026,Y khoa,68.57,MED
+2021,Ngôn ngữ,62.25,LANG_SOC
+2022,Ngôn ngữ,65.0,LANG_SOC
+2023,Ngôn ngữ,56.67,LANG_SOC
+2024,Ngôn ngữ,59.25,LANG_SOC
+2025,Ngôn ngữ,54.42,LANG_SOC
+2026,Ngôn ngữ,53.57,LANG_SOC
+2021,Sư phạm,22.0,EDU
+2022,Sư phạm,26.83,EDU
+2023,Sư phạm,30.42,EDU
+2024,Sư phạm,36.75,EDU
+2025,Sư phạm,40.83,EDU
+2026,Sư phạm,48.0,EDU
+2021,Luật,63.0,LAW
+2022,Luật,77.5,LAW
+2023,Luật,72.25,LAW
+2024,Luật,81.0,LAW
+2025,Luật,84.0,LAW
+2026,Luật,80.86,LAW
+2021,Nông nghiệp,44.92,AGRI
+2022,Nông nghiệp,54.67,AGRI
+2023,Nông nghiệp,46.92,AGRI
+2024,Nông nghiệp,51.58,AGRI
+2025,Nông nghiệp,52.67,AGRI
+2026,Nông nghiệp,47.29,AGRI
+2021,Khoa học,55.5,SCI
+2022,Khoa học,72.17,SCI
+2023,Khoa học,71.5,SCI
+2024,Khoa học,74.67,SCI
+2025,Khoa học,77.33,SCI
+2026,Khoa học,70.71,SCI
+2021,Thiết kế,62.5,ART
+2022,Thiết kế,79.17,ART
+2023,Thiết kế,79.75,ART
+2024,Thiết kế,83.5,ART
+2025,Thiết kế,82.42,ART
+2026,Thiết kế,73.29,ART

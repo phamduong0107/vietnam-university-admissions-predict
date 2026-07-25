@@ -1,0 +1,578 @@
+ma_truong,chuong_trinh_dao_tao,ma_xet_tuyen,diem_chuan_du_bao,diem_nam_ngoai
+BKA,An toàn không gian số - Cyber Security (CT Tiên tiến),"A00,A01,B03,C01,C02",27.76,28.69
+BKA,CNTT: Khoa học Máy tính,"A00,A01,B03,C01,C02",29.15,29.19
+BKA,CNTT: Kỹ thuật Máy tính,"A00,A01,B03,C01,C02",28.79,28.83
+BKA,Cơ điện tử - hợp tác với ĐH Leibniz Hannover (Đức),"A00,A01,B03,C01,C02",26.75,26.19
+BKA,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV),"A00,A01,B03,C01,C02",26.49,25.84
+BKA,Công nghệ giáo dục,"D01,A00,A01,B03,C01,C02",19.17,17.48
+BKA,Công nghệ thông tin (Việt - Nhật),"B03,C01,C02,A00,A01",27.54,27.97
+BKA,Công nghệ vật liệu Polyme và Compozit,"B03,C01,C02,A00,A01,D07",25.81,25.16
+BKA,Hệ thống điện và năng lượng tái tạo (CT tiên tiến),"A00,A01,B03,C01,C02",27.04,26.56
+BKA,Hệ thống nhúng thông minh và IoT (CT tiên tiến),"A00,A01,B03,C01,C02",27.83,27.85
+BKA,Hệ thống thông tin quản lý,"A00,A01,B03,C01,C02",27.52,27.72
+BKA,Hoá học,"A00,B00,D07,B03,C01,C02",23.21,23.19
+BKA,Kế toán,"D01,A00,A01,B03,C01,C02",19.3,18.1
+BKA,Khoa học dữ liệu và Trí tuệ nhân tạo (CT tiên tiến),"A00,A01,B03,C01,C02",29.35,29.39
+BKA,Khoa học máy tính - hợp tác với ĐH Troy (Hoa Kỳ),"D01,A00,A01,B03,C01,C02",17.08,15.98
+BKA,Khoa học và kỹ thuật vật liệu (CT tiên tiến),"A00,A01,D07,B03,C01,C02",24.18,23.7
+BKA,Kỹ thuật Cơ điện tử (CT tiên tiến),"B03,C01,C02,A00,A01",27.24,26.74
+BKA,Kỹ thuật Cơ khí,"A00,A01,B03,C01,C02",27.15,26.62
+BKA,Kỹ thuật Cơ khí động lực,"A00,A01,B03,C01,C02",26.82,26.25
+BKA,Kỹ thuật Hàng không,"A00,A01,B03,C01,C02",27.11,26.6
+BKA,Kỹ thuật hạt nhân,"B03,C01,C02,A00,A01,A02",24.71,25.07
+BKA,Kỹ thuật Hóa dược (CT tiên tiến),"B03,C01,C02,A00,B00,D07",21.2,21.38
+BKA,Kỹ thuật Hoá học,"A00,B00,D07,B03,C01,C02",23.83,24.05
+BKA,Kỹ thuật Điện,"B03,C01,C02,A00,A01",28.0,27.55
+BKA,Kỹ thuật Điện tử - Viễn thông (CT tiên tiến),"A00,A01,B03,C01,C02",28.0,27.55
+BKA,Kỹ thuật Điều khiển - Tự động hoá (CT tiên tiến),"A00,A01,B03,C01,C02",27.25,28.12
+BKA,Kỹ thuật in,"A00,A01,D07,B03,C01,C02",23.86,24.06
+BKA,Kỹ thuật Môi trường,"A00,B00,D07,B03,C01,C02",23.01,22.22
+BKA,Kỹ thuật Nhiệt,"B03,C01,C02,A00,A01",24.84,25.47
+BKA,Kỹ thuật Ô tô (CT tiên tiến),"A00,A01,B03,C01,C02",25.85,25.18
+BKA,Kỹ thuật sinh học (CT tiên tiến),"A00,B00,D07,B03,C01,C02",20.99,20.0
+BKA,Kỹ thuật Thực phẩm (CT tiên tiến),"A00,B00,D07,B03,C01,C02",20.1,21.0
+BKA,Kỹ thuật Vật liệu,"A00,A01,D07,B03,C01,C02",26.03,25.39
+BKA,Kỹ thuật Vi điện tử và Công nghệ nano,"A00,A01,D07,B03,C01,C02",28.5,28.25
+BKA,Kỹ thuật Y sinh (CT tiên tiến),"A00,A01,B03,C01,C02,B00",26.32,25.58
+BKA,Logistics và Quản lý chuỗi cung ứng (CT tiên tiến),"D01,A01,B03,C01,C02,D07",18.8,17.78
+BKA,Phân tích kinh doanh (CT tiên tiến),"A01,B03,C01,C02,D07,D01",18.68,17.67
+BKA,Quản lý công nghiệp,"D01,A00,A01,B03,C01,C02",20.17,17.92
+BKA,Quản lý giáo dục,"D01,A00,A01,B03,C01,C02",19.24,17.4
+BKA,Quản lý năng lượng,"D01,A00,A01,B03,C01,C02",19.97,17.78
+BKA,Quản lý Tài nguyên và Môi trường,"A00,B00,D07,B03,C01,C02",22.41,21.53
+BKA,Quản trị kinh doanh,"D01,A00,A01,B03,C01,C02",19.14,18.23
+BKA,Quản trị kinh doanh - hợp tác với ĐH Troy (Hoa Kỳ),"D01,A00,A01,B03,C01,C02",15.38,14.25
+BKA,Tài chính - Ngân hàng,"D01,A00,A01,B03,C01,C02",19.37,18.23
+BKA,Tiếng Anh chuyên nghiệp quốc tế,"D01,B03,C01,C02",19.6,18.23
+BKA,Tiếng Anh KHKT và Công nghệ,"B03,C01,C02,D01",19.84,18.6
+BKA,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV),"A00,A01,B03,C01,C02",27.7,27.27
+BKA,Toán - Tin,"A00,A01,B03,C01,C02",28.09,27.8
+BKA,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến),"B03,C01,C02,A00,A01",27.03,26.62
+BKA,Vật lý kỹ thuật,"A00,A01,B03,C01,C02",27.17,26.41
+BKA,Vật lý Y khoa,"A00,A01,A02,B03,C01,C02",24.28,25.2
+BVH,An toàn thông tin,"A00,A01",25.05,25.21
+BVH,Báo chí,"A00,A01,D01",16.9,17.0
+BVH,Công nghệ đa phương tiện,"A00,A01,D01",17.87,18.0
+BVH,"Công nghệ Kỹ thuật Điện, điện tử","A00,A01",25.07,24.61
+BVH,Công nghệ tài chính (Fintech),"A00,A01,D01",17.59,17.72
+BVH,Công nghệ thông tin,"A00,A01",25.56,25.8
+BVH,Công nghệ thông tin Việt - Nhật,"A00,A01",23.31,23.48
+BVH,Kế toán,"A00,A01,D01",16.6,16.88
+BVH,Kế toán chất lượng cao (chuẩn quốc tế ACCA),"A00,A01,D01",15.37,15.75
+BVH,Khoa học máy tính (định hướng Khoa học dữ liệu),"A00,A01",26.03,26.21
+BVH,Kỹ thuật dữ liệu (ngành Mạng máy tính và truyền thông dữ liệu),"A00,A01",24.47,24.4
+BVH,Kỹ thuật Điện tử viễn thông,"A00,A01",25.47,25.1
+BVH,Kỹ thuật Điều khiển và tự động hóa,"A00,A01",26.51,26.19
+BVH,Marketing,"A00,A01,D01",17.9,18.0
+BVH,Quan hệ công chúng (ngành Marketing),"A00,A01,D01",17.57,17.6
+BVH,Quản trị kinh doanh,"A00,A01,D01",16.57,17.06
+BVH,Thiết kế và phát triển Game (ngành Công nghệ đa phương tiện),"A00,A01,D01",18.24,17.61
+BVH,Thương mại điện tử,"A00,A01,D01",18.86,18.83
+BVH,Truyền thông đa phương tiện,"A00,A01,D01",19.48,18.94
+DCN,An toàn thông tin,"A00,A01",23.51,23.43
+DCN,Công nghệ đa phương tiện,"A00,A01",22.63,22.25
+DCN,"Công nghệ dệt, may","A01,D01",14.4,13.5
+DCN,Công nghệ kỹ thuật cơ điện tử,"A00,A01",25.66,25.17
+DCN,Công nghệ kỹ thuật cơ điện tử ô tô,"A00,A01",24.44,23.93
+DCN,Công nghệ kỹ thuật cơ khí,"A00,A01",24.22,23.72
+DCN,Công nghệ kỹ thuật hóa học,"A00,B00,C02,D07",21.27,20.25
+DCN,"Công nghệ kỹ thuật điện, điện tử","A00,A01",24.42,23.93
+DCN,Công nghệ kỹ thuật điện tử - viễn thông,"A00,A01",23.37,22.75
+DCN,Công nghệ kỹ thuật điện tử y sinh,"A00,A01",21.59,20.6
+DCN,Công nghệ kỹ thuật điều khiển và tự động hóa,"A00,A01",26.78,26.27
+DCN,Công nghệ kỹ thuật khuôn mẫu,"A00,A01",23.19,22.5
+DCN,Công nghệ kỹ thuật máy tính,"A00,A01",21.93,21.85
+DCN,Công nghệ kỹ thuật môi trường,"A00,B00,C02,D07",19.78,18.75
+DCN,Công nghệ kỹ thuật nhiệt,"A00,A01",22.8,21.85
+DCN,Công nghệ kỹ thuật ô tô,"A00,A01",23.25,22.5
+DCN,Công nghệ thông tin,"A00,A01",23.22,23.09
+DCN,Công nghệ thực phẩm,"A00,B00,C02,D07",20.66,20.6
+DCN,"Công nghệ vật liệu dệt, may","A01,D01",14.68,13.69
+DCN,Du lịch,"D01,D14,D15",16.23,16.39
+DCN,Hệ thống thông tin,"A00,A01",21.14,21.1
+DCN,Hóa dược,"A00,B00,C02,D07",22.38,21.35
+DCN,Kế toán,"A01,D01",14.48,15.0
+DCN,Khoa học máy tính,"A00,A01",23.79,23.72
+DCN,Kiểm toán,"A01,D01",15.35,15.0
+DCN,Kinh tế đầu tư,"A01,D01",16.11,15.94
+DCN,Kỹ thuật cơ khí động lực,"A00,A01",23.31,22.5
+DCN,Kỹ thuật hệ thống công nghiệp,"A00,A01",22.67,21.75
+DCN,Kỹ thuật phần mềm,"A00,A01",21.79,21.75
+DCN,Kỹ thuật sản xuất thông minh,"A00,A01",22.87,22.5
+DCN,Logistics và quản lý chuỗi cung ứng,"A01,D01",17.05,17.07
+DCN,Mạng máy tính và truyền thông dữ liệu,"A00,A01",21.65,21.7
+DCN,Marketing,"A01,D01",16.71,16.88
+DCN,Năng lượng tái tạo,"A00,A01",20.94,20.75
+DCN,Ngôn ngữ Anh,D01,16.5,16.01
+DCN,Ngôn ngữ Hàn Quốc,D01,16.79,16.12
+DCN,Ngôn ngữ học,"D01,D14",16.12,15.0
+DCN,Ngôn ngữ Nhật,"D01,D06",16.03,15.0
+DCN,Ngôn ngữ Trung Quốc,"D01,D04",17.58,17.25
+DCN,Phân tích dữ liệu kinh doanh,"A01,D01",14.91,15.0
+DCN,Quản trị dịch vụ du lịch và lữ hành,"D01,D14,D15",16.29,16.69
+DCN,Quản trị khách sạn,"D01,D14,D15",16.16,16.31
+DCN,Quản trị kinh doanh,"A01,D01",14.67,15.19
+DCN,Quản trị nhà hàng và dịch vụ ăn uống,"D01,D14,D15",15.78,15.64
+DCN,Quản trị nhân lực,"A01,D01",15.98,15.94
+DCN,Quản trị văn phòng,"A01,D01",15.35,15.0
+DCN,Robot và trí tuệ nhân tạo,"A00,A01",24.67,24.3
+DCN,Thiết kế cơ khí và kiểu dáng công nghiệp,"A00,A01",22.27,21.35
+DCN,Thiết kế thời trang,"D01,D14",16.84,15.56
+DCN,Trung Quốc học,"D01,D04",17.03,16.16
+DKH,Công nghệ sinh học,B00,21.34,20.0
+DKH,Dược học,"A00,B00",24.75,24.5
+DKH,Hóa dược,A00,23.82,23.56
+DKH,Hóa học,A00,22.18,20.85
+DKK,Bảo hiểm (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",14.85,15.6
+DKK,"Công nghệ dệt, may (CS Nam Định)","A00,A01,A02,A03,B00,C01,C02,D01,D07",14.44,15.75
+DKK,Công nghệ kỹ thuật cơ điện tử (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",16.72,16.5
+DKK,Công nghệ kỹ thuật cơ khí (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",16.72,16.5
+DKK,"Công nghệ kỹ thuật điện, điện tử (CS Nam Định)","A00,A01,A02,A03,B00,C01,C02,D01,D07",16.72,16.5
+DKK,Công nghệ kỹ thuật điện tử - viễn thông (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",15.71,15.37
+DKK,Công nghệ kỹ thuật máy tính (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",15.04,15.37
+DKK,Công nghệ kỹ thuật ô tô (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",17.11,16.88
+DKK,Công nghệ thông tin (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",16.47,16.88
+DKK,Công nghệ thực phẩm (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",12.03,14.25
+DKK,Kế toán (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",13.75,15.0
+DKK,Khoa học dữ liệu (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",15.41,15.75
+DKK,Kiểm toán (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",14.81,15.0
+DKK,Kinh doanh thương mại (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",14.43,15.9
+DKK,Mạng máy tính và truyền thông dữ liệu (CS Nam Định),"A00,A01,A02,A03,B00,C01,C02,D01,D07",14.83,15.0
+DKK,Marketing (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",16.38,17.25
+DKK,Ngôn ngữ Anh (CS Nam Định),"A01,D01,D07,D09,D10,D11,D14,D15",15.68,16.5
+DKK,Quản trị dịch vụ du lịch và lữ hành (CS Nam Định),"C00,C01,C03,C04,C07,C09,D01,D11,D14,D15",16.82,17.62
+DKK,Quản trị khách sạn (CS Nam Định),"C00,C01,C03,C04,C07,C09,D01,D11,D14,D15",16.82,17.62
+DKK,Quản trị kinh doanh (CS Nam Định),"A00,A01,A03,A04,C01,C03,C04,D01,D07,D09,D10",15.07,16.5
+FBU,Công nghệ thông tin,"A00,A01,C04,D01",12.71,12.75
+FBU,Kế toán,"A00,A01,C04,D01",17.74,17.25
+FBU,Kiểm toán,"A00,A01,C04,D01",14.22,12.75
+FBU,Kinh doanh thương mại,"A00,A01,C04,D01",17.66,17.25
+FBU,Luật kinh tế,"A00,A01,C04,D01",17.09,16.12
+FBU,Ngôn ngữ Anh,"A01,D01,D10",15.6,13.88
+FBU,Ngôn ngữ Tiếng Trung,"C00,C04,D01,D04",19.18,18.19
+FBU,Quản trị kinh doanh,"A00,A01,C04,D01",17.74,17.25
+FBU,Tài chính - Ngân hàng,"A00,A01,C04,D01",16.79,16.5
+GHA,Công nghệ thông tin,"A00,A01,D07",23.7,23.7
+GHA,Kế toán (chuyên ngành Kế toán tổng hợp),"A00,A01,D01,D07",19.54,19.06
+GHA,"Khai thác vận tải (chuyên ngành: Vận tải - Thương mại quốc tế, Quy hoạch và quản lý GTVT đô thị, Vận tải - Kinh tế đường bộ và thành phố, Vận tải đường sắt)","A00,A01,D01,D07",18.69,18.74
+GHA,Khoa học máy tính,"A00,A01,D07",24.66,24.35
+GHA,Kiến trúc,"A00,A01",23.97,23.52
+GHA,"Kinh tế (chuyên ngành: kinh tế và quản lý đầu tư, kinh tế bưu chính viễn thông)","A00,A01,D01,D07",19.42,18.86
+GHA,"Kinh tế vận tải (chuyên ngành: Kinh tế vận tải ô tô, Kinh tế vận tải hàng không, Kinh tế vận tải đường sắt, Kinh tế vận tải thuỷ bộ)","A00,A01,D01,D07",19.3,18.8
+GHA,Kinh tế xây dựng (chuyên ngành: Kinh tế và quản lý đầu tư xây dựng),"A00,A01,D01,D07",18.75,18.06
+GHA,Kỹ thuật cơ điện tử,"A00,A01,D07",25.55,24.93
+GHA,"Kỹ thuật cơ khí (chuyên ngành: Công nghệ chế tạo cơ khí, Tự động hoá thiết kế cơ khí)","A00,A01,D07,D01",20.1,19.46
+GHA,"Kỹ thuật cơ khí động lực (chuyên ngành: Kỹ thuật phương tiện đường sắt, Máy xây dựng, Kỹ thuật máy động lực)","A00,A01,D01,D07",19.03,17.87
+GHA,Kỹ thuật cơ sở hạ tầng (chuyên ngành: cơ sở hạ tầng kỹ thuật đô thị),"A00,A01,D01,D07",17.87,16.71
+GHA,"Kỹ thuật điện (chuyên ngành: Trang bị điện trong công nghiệp và GTVT, Hệ thống điện trong giao thông và công nghiệp)","A00,A01,D07",24.37,23.88
+GHA,"Kỹ thuật điện tử - viễn thông (chuyên ngành: Kỹ thuật viễn thông, Kỹ thuật thông tin và truyền thông, Kỹ thuật điện tử và tin học công nghiệp)","A00,A01,D07",24.34,23.67
+GHA,Kỹ thuật điều khiển và tự động hoá (chuyên ngành: Tự động hoá),"A00,A01,D07",25.35,25.42
+GHA,"Kỹ thuật máy tính (theo hướng chuyên sâu vi mạch bán dẫn, bao gồm lớp kỹ sư tài năng)","A00,A01,D07",24.36,23.95
+GHA,Kỹ thuật môi trường,"A00,B00,D01,D07",17.5,16.04
+GHA,Kỹ thuật nhiệt (chuyên ngành: Kỹ thuật nhiệt lạnh và điều hoà không khí),"A00,A01,D01,D07",19.34,18.53
+GHA,Kỹ thuật ô tô (bao gồm lớp kỹ sư tài năng),"A00,A01,D07",24.41,23.66
+GHA,"Kỹ thuật xây dựng (chuyên ngành: Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Vật liệu và công nghệ xây dựng)","A00,A01,D01,D07",18.13,16.83
+GHA,"Kỹ thuật xây dựng công trình giao thông (chuyên ngành: Cầu đường bộ, Đường bộ và kỹ thuật giao thông, Cầu và kết cấu, ĐS/ ĐS đô thị, XD sân bay cảng hàng không, Công trình GT đô thị)","A00,A01,D01,D07,D03",15.58,13.46
+GHA,Kỹ thuật xây dựng công trình thủy,"A00,A01,D01,D07",16.77,15.36
+GHA,Logistics và quản lý chuỗi cung ứng,"A00,A01,D01,D07",20.49,20.64
+GHA,Ngôn ngữ Anh,"D01,D09,D10",19.27,19.0
+GHA,Quản lý đô thị và công trình,"A00,A01,D01,D07",18.8,16.96
+GHA,Quản lý xây dựng,"A00,A01,D01,D07",18.67,17.43
+GHA,Quản trị dịch vụ du lịch và lữ hành,"A00,A01,D01,D07",18.77,18.02
+GHA,Quản trị kinh doanh,"A00,A01,D01,D07",19.54,19.06
+GHA,Tài chính - Ngân hàng,"A00,A01,D01,D07",19.81,19.4
+GHA,Toán ứng dụng (chuyên ngành toán tin ứng dụng),"A00,A01,D01,D07",19.76,18.11
+HBT,"Chính trị học, chuyên ngành Chính trị phát triển","D01,C03",17.35,17.3
+HBT,"Chính trị học, chuyên ngành Công tác tư tưởng - văn hóa","D01,C03",18.07,17.24
+HBT,"Chính trị học, chuyên ngành Truyền thông chính sách","D01,C03",18.58,18.08
+HBT,"Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh","C03,D01",17.77,17.75
+HBT,Chủ nghĩa xã hội khoa học,"D01,C03",18.33,17.22
+HBT,Công tác xã hội,"D01,C03",18.26,18.15
+HBT,"Kinh tế, chuyên ngành Quản lý kinh tế","D01,C03",18.56,18.43
+HBT,Kinh tế chính trị,"D01,C03",18.5,18.24
+HBT,Quản lý công,"D01,C03",18.73,17.62
+HBT,Quản lý nhà nước,"D01,C03",18.91,17.81
+HBT,Triết học,"D01,C03",18.01,17.33
+HBT,Xã hội học,"C03,D01",18.79,18.71
+HBT,Xây dựng Đảng và chính quyền nhà nước,"D01,C03",17.95,17.39
+HNM,Chính trị học,"C00,D01,D04,D14,D15",18.99,18.56
+HNM,Công nghệ thông tin,"A00,A01,A02,C01",22.88,22.95
+HNM,Công tác xã hội,"C00,D01,D04,D14,D15",18.92,18.5
+HNM,Giáo dục công dân,"C00,C14,C19,C20",26.57,27.2
+HNM,Giáo dục Mầm non,"C03,C04,C14,D01,D04",18.99,18.19
+HNM,Giáo dục Tiểu học,"C03,C04,C14,D01,D04",19.55,19.0
+HNM,Luật,"C00,D01,D04,D14,D15",19.83,19.04
+HNM,Ngôn ngữ Anh,"D01,D04,D14,D15",19.43,18.92
+HNM,Ngôn ngữ Trung Quốc,"D01,D04,D14,D15",19.45,18.99
+HNM,Quản trị dịch vụ du lịch và lữ hành,"D01,D04,D14,D15",18.28,17.97
+HNM,Quản trị khách sạn,"D01,D04,D14,D15",18.02,17.66
+HNM,Quản trị kinh doanh,"D01,D04,D07,D08,D11",17.49,17.14
+HNM,Sư phạm Lịch sử,"C00,C03,C19,D14",26.67,27.38
+HNM,Sư phạm Ngữ văn,"C03,C04,C14,D01,D04,C00",20.41,21.08
+HNM,Sư phạm Toán học,"A00,A01,A02,C01",27.19,27.34
+HNM,Toán ứng dụng,"A00,A01,A02,C01",24.66,24.44
+HNM,Văn hóa học,"C00,C03,C19,D14",25.69,25.13
+HNM,Văn học,"C00,C03,C04,D01,D04,D14",20.04,19.33
+HNM,Việt Nam học,"C00,C03,C19,D14",24.19,24.72
+HPN,Công nghệ thông tin,"A00,A01,D01,D09",15.87,15.51
+HPN,Công tác xã hội,"A00,C00,D01,D14,D15",18.93,18.13
+HPN,Giới và phát triển,"A00,C00,D01,D14,D15",17.73,16.82
+HPN,Kinh tế,"A00,D01,D09,C00",18.91,18.02
+HPN,Kinh tế số,"A00,D01,D09,C00",18.23,17.4
+HPN,Luật,"A00,D01,D14,D15,C00",19.24,17.76
+HPN,Luật kinh tế,"A00,D01,D14,D15,C00",18.71,17.87
+HPN,Quản trị dịch vụ du lịch và lữ hành,"A00,A01,D01,C00",19.14,18.31
+HPN,Quản trị kinh doanh,"A00,A01,D01,C00",18.84,17.95
+HPN,Tâm lý học,"A01,B03,B08,D01,C00",19.77,18.13
+HPN,Truyền thông đa phương tiện,"A00,A01,D01,C00",19.86,18.84
+HQT,Hàn Quốc học,"A00,A01,C00,D01,D07,D09,D10,D14,D15",19.68,18.83
+HQT,Hoa Kỳ học,"A00,A01,C00,D01,D07,D09,D10,D14,D15",18.02,18.13
+HQT,Kinh doanh quốc tế,"A00,A01,D01,D03,D04,D06,D07,D09,D10",18.59,18.56
+HQT,Kinh tế quốc tế,"A00,A01,D01,D03,D04,D06,D07,D09,D10",18.41,18.34
+HQT,Luật quốc tế,"A00,A01,C00,D01,D03,D04,D06,D07,D09,D10,D14,D15",20.66,18.71
+HQT,Luật thương mại quốc tế,"A00,A01,C00,D01,D03,D04,D06,D07,D09,D10,D14,D15",18.74,18.52
+HQT,Nhật Bản học,"A00,A01,C00,D01,D06,D07,D09,D10,D14,D15",18.57,18.32
+HQT,Quan hệ quốc tế,"A00,A01,C00,D01,D03,D04,D06,D07,D09,D10,D14,D15",20.11,19.46
+HQT,Trung Quốc học,"A00,A01,C00,D01,D04,D07,D09,D10,D14,D15",20.2,19.57
+HQT,Truyền thông quốc tế,"A00,A01,C00,D01,D03,D04,D06,D07,D09,D10,D14,D15",19.93,19.42
+HTC,Tài chính - Ngân hàng 2 (CN Tài chính doanh nghiệp; Phân tích tài chính),"A00,A01,D01,D07",20.07,19.73
+HTC,Tài chính - Ngân hàng 2 (CN Tài chính doanh nghiệp; Phân tích tài chính),"A00,A01,D01,D07",20.05,19.73
+HTC,Tài chính - Ngân hàng 3 (CN Ngân hàng;  Đầu tư tài chính),"A00,A01,D01,D07",19.47,19.05
+HTC,Tài chính - Ngân hàng 3 (CN Ngân hàng;  Đầu tư tài chính),"A00,A01,D01,D07",19.45,19.05
+HVN,Chăn nuôi thú y - Thủy sản,"A00,A01,B00,C03,C04,D01,D07",12.57,12.75
+HVN,Công nghệ kỹ thuật ô tô và Cơ điện tử,"A00,A01,C01,C02,C03,C04,D01",15.71,15.75
+HVN,Công nghệ sinh học và Công nghệ dược liệu,"A00,A01,B00,B02,B08,C03,D01",15.33,15.37
+HVN,Công nghệ thông tin và Kỹ thuật số,"A00,A01,C01,C02,C03,D01",14.05,14.7
+HVN,Công nghệ thực phẩm và Chế biến,"A00,A01,B00,C03,C04,D01,D07",14.75,15.75
+HVN,Khoa học Môi trường,"A00,A01,B00,C03,C04,D01,D07",15.47,15.75
+HVN,Kinh tế và Quản lý,"A00,A01,A07,C01,C02,C03,C04,D01",13.5,12.75
+HVN,Kỹ thuật cơ khí,"A00,A01,C01,C02,C03,C04,D01",16.32,16.12
+HVN,"Kỹ thuật điện, Điện tử và Tự động hóa","A00,A01,C01,C02,C03,C04,D01",16.41,16.5
+HVN,Logistics và Quản lý chuỗi cung ứng,"A00,A01,A07,C01,C02,C03,C04,D01",15.54,15.75
+HVN,Luật,"C00,C01,C03,D01,D14,D15",18.71,17.48
+HVN,Ngôn ngữ Anh,"A01,D01,D09,D10,D11,D14,D15",16.08,15.9
+HVN,"Quản lý đất đai, Bất động sản và Môi trường","A00,A01,A07,C01,C02,C03,C04,D01",13.12,13.73
+HVN,Sư phạm Công nghệ,"A00,A01,B00,C01,C02,C03,D01",20.33,18.08
+HVN,Thú y,"A00,A01,B00,C03,C04,D01,D07",15.7,15.37
+HVN,Xã hội học,"C00,C01,C03,D01,D14,D15",17.48,16.5
+KHA,Bảo hiểm,"A00,A01,D01,D07",19.38,18.56
+KHA,Bất động sản,"A00,A01,D01,D07",19.59,19.06
+KHA,Công nghệ tài chính (BFT)/ngành TC-NH,"A00,A01,D01,D07",20.06,19.72
+KHA,Định phí Bảo hiểm & Quản trị rủi ro (Actuary),"A00,A01,D01,D07",19.53,19.12
+KHA,Kế toán,"A00,A01,D01,D07",20.51,20.32
+KHA,Kế toán tích hợp chứng chi quốc tế (JCAEW CFAB),"A00,A01,D01,D07",19.98,19.42
+KHA,Khoa học quản lý,"A00,A01,D01,D07",20.3,19.54
+KHA,Kiểm toán,"A00,A01,D01,D07",21.36,21.28
+KHA,Kiểm toán tích hợp chứng chỉ quốc tế (ICAEW CFAB),"A00,A01,D01,D07",20.7,20.44
+KHA,Kinh doanh nông nghiệp,"A00,A01,D01,D07",18.77,17.81
+KHA,Kinh doanh quốc tế,"A00,A01,D01,D07",21.38,21.45
+KHA,Kinh doanh số (E-BDB)/ngành QTKD,"A00,A01,D01,D07",20.05,19.8
+KHA,Kinh doanh thương mại,"A00,A01,D01,D07",21.16,21.0
+KHA,Kinh tế đầu tư,"A00,A01,D01,D07",20.87,20.62
+KHA,Kinh tế học (ngành Kinh tế),"A00,A01,D01,D07",20.11,19.89
+KHA,Kinh tế nông nghiệp,"A00,A01,D01,D07",19.23,18.26
+KHA,Kinh tế phát triển,"A00,A01,D01,D07",20.23,20.08
+KHA,Kinh tế quốc tế,"A00,A01,D01,D07",21.16,21.1
+KHA,Kinh tế tài nguyên thiên nhiên,"A00,A01,D01,D07",18.66,17.62
+KHA,Kinh tế và quản lý nguồn nhân lực (ngành Kinh tế),"A00,A01,D01,D07",20.19,20.09
+KHA,Kinh tế và quản lý đô thị (ngành Kinh tế),"A00,A01,D01,D07",19.72,19.35
+KHA,Logistics và Quản lý chuỗi cung ứng,"A00,A01,D01,D07",21.39,21.46
+KHA,Luật,"A00,A01,D01,D07",20.85,19.47
+KHA,Luật kinh tế,"A00,A01,D01,D07",20.24,20.06
+KHA,Marketing,"A00,A01,D01,D07",21.13,21.09
+KHA,Phân tích kinh doanh (BA)/ngành QTKD,"A00,A01,D01,D07",20.71,20.62
+KHA,Quan hệ công chúng,"A00,A01,D01,D07",21.4,21.05
+KHA,Quản lý đất đai,"A00,A01,D01,D07",18.29,18.28
+KHA,Quản lý công,"A00,A01,D01,D07",19.93,19.07
+KHA,Quản lý công và Chính sách (E-PMP)/ngành Kinh tế,"A00,A01,D01,D07",17.68,17.25
+KHA,Quản lý dự án,"A00,A01,D01,D07",20.79,19.97
+KHA,Quản lý tài nguyên và môi trường,"A00,A01,D01,D07",18.86,18.13
+KHA,Quản trị chất lượng và Đổi mới (E-MQI)/ngành QTKD,"A00,A01,D01,D07",18.85,18.15
+KHA,Quản trị dịch vụ du lịch và lữ hành,"A00,A01,D01,D07",20.11,19.54
+KHA,Quản trị khách sạn,"A00,A01,D01,D07",20.2,19.69
+KHA,Quản trị kinh doanh,"A00,A01,D01,D07",20.45,20.32
+KHA,Quản trị nhân lực,"A00,A01,D01,D07",20.5,20.32
+KHA,Tài chính - Ngân hàng,"A00,A01,D01,D07",20.67,20.5
+KHA,Thương mại điện tử,"A00,A01,D01,D07",21.63,21.62
+KMA,An toàn thông tin,"A00,A01",24.43,24.42
+KMA,Công nghệ thông tin,"A00,A01",24.18,24.17
+KMA,Kỹ thuật điện tử - viễn thông,"A00,A01",23.82,23.48
+LPH,Luật,"A01,C00,D01,D02,D03,D04,D05,D06,A00",20.06,18.33
+LPH,Luật Kinh tế,"C00,D01,D02,D03,D04,D05,D06,A00,A01",21.92,21.59
+LPH,Luật Thương mại quốc tế,"D01,A01",18.53,18.11
+LPH,Ngôn ngữ Anh,"D01,A01",17.89,17.4
+NHF,Công nghệ tài chính (dạy bằng tiếng Anh),"A01,D01",15.49,15.33
+NHF,Công nghệ Thông tin (dạy bằng tiếng Anh),"A01,D01",14.07,14.64
+NHF,Kế toán (dạy bằng tiếng Anh),D01,15.26,15.0
+NHF,Nghiên cứu phát triển (dạy bằng tiếng Anh),D01,14.7,14.48
+NHF,Quốc tế học (dạy bằng tiếng Anh),D01,15.15,15.09
+NHH,Công nghệ tài chính,"A00,A01,D01,D07",18.86,18.3
+NHH,Công nghệ thông tin,"A00,A01,D01,D07",17.69,17.65
+NHH,Hệ thống thông tin quản lý,"A00,A01,D01,D07",18.37,18.56
+NHH,Kế toán,"A00,A01,D01,D07",19.04,18.52
+NHH,Kiểm toán,"A00,A01,D01,D07",19.11,18.66
+NHH,Kinh doanh quốc tế,"A01,D01,D07,D09",18.72,18.94
+NHH,Kinh tế đầu tư,"A01,D01,D07,D09",18.19,18.28
+NHH,Logistics và quản lý chuỗi cung ứng,"A01,D01,D07,D09",18.68,18.83
+NHH,Luật kinh tế,"D01,D14,C00,C03",18.68,18.35
+NHH,"Marketing số (ĐH Coventry, Anh cấp bằng)","A00,A01,D01,D07",16.49,16.08
+NHH,Ngân hàng,"A00,A01,D01,D07",19.15,18.7
+NHH,Ngân hàng số,"A00,A01,D01,D07",19.07,18.62
+NHH,Quản trị du lịch,"A01,D01,D07,D09",17.61,17.65
+NHH,Quản trị kinh doanh,"A00,A01,D01,D07",18.53,18.28
+NHH,Tài chính,"A00,A01,D01,D07",19.32,18.87
+PKA,An toàn thông tin (Một số học phần chuyên ngành học bằng tiếng Anh),"A00,A01,D01,D07",14.01,14.25
+PKA,Chip bán dẫn và Công nghệ đóng gói,"A00,A01,B00,D07",19.84,21.0
+PKA,Cơ điện tử ô tô,"A00,A01,A04,C01,D07",18.92,19.0
+PKA,Công nghệ sinh học,"A00,B00,B08,D07",18.18,18.0
+PKA,Công nghệ tài chính,"A01,D01,D07",12.97,13.5
+PKA,Công nghệ thông tin,"A00,A01,D01,D07",15.42,15.75
+PKA,Công nghệ thông tin Việt Nhật,"A00,A01,D01,D06",13.72,14.25
+PKA,Du lịch (Định hướng Quản trị du lịch),"A00,C03,D01,D09,D10",13.32,14.25
+PKA,Dược học,"A00,B00,B08,D07",19.9,21.0
+PKA,Hướng dẫn Du lịch quốc tế,"C00,C03,D01,D14,D15",13.69,14.25
+PKA,Điều dưỡng,"A00,B00,B03,B08,D07",16.9,17.0
+PKA,Kế toán,"A00,A01,B00,B04,D01,D07",13.58,14.25
+PKA,Khoa học máy tính (Trí tuệ nhân tạo và Khoa học dữ liệu),"A00,A01,D07",20.93,21.0
+PKA,Kinh doanh Du lịch số,"A00,C03,D01,D09,D10",14.14,14.25
+PKA,Kinh doanh quốc tế (Các học phần chuyên ngành học bằng tiếng Anh),"A01,B08,D01,D09,D10",12.81,14.25
+PKA,Kinh tế số,"A00,A01,D01",13.32,13.5
+PKA,Kỹ thuật cơ điện tử,"A00,A01,A02,C01",19.8,20.0
+PKA,Kỹ thuật cơ khí,"A00,A01,A02,C01",18.8,19.0
+PKA,Kỹ thuật hình ảnh y học,"A00,B00,B03,B08,D07",19.15,19.0
+PKA,Kỹ thuật hóa học,"A00,A01,B00,D07",17.35,17.0
+PKA,Kỹ thuật Điện tử - Viễn thông (Hệ thống nhúng thông minh và IoT),"A00,A01,D07,D08",20.93,21.0
+PKA,Kỹ thuật điều khiển và tự động hóa (Robot và trí tuệ nhân tạo),"A00,A01,C01,D07",21.16,22.0
+PKA,Kỹ thuật ô tô,"A00,A01,A04,C01,D07",19.79,20.0
+PKA,Kỹ thuật phần mềm (Một số học phần chuyên ngành học bằng tiếng Anh),"A00,A01,D01,D07",13.99,14.25
+PKA,Kỹ thuật phần mềm ô tô,"A00,A01,A04,C01,D07",18.42,19.0
+PKA,Kỹ thuật phục hồi chức năng,"A00,B00,B03,B08,D07",19.01,19.0
+PKA,Kỹ thuật xét nghiệm y học,"A00,B00,B03,B08,D07",19.01,19.0
+PKA,Kỹ thuật y sinh (Điện tử y sinh),"A00,A01,D07,D08",20.15,20.0
+PKA,Logistics và Quản lý chuỗi cung ứng (Một số học phần chuyên ngành học bằng tiếng Anh),"A01,B08,D01,D07,D09,D10",12.75,14.25
+PKA,Luật kinh tế,"C00,C03,C19,D01,D12,D13",12.31,13.5
+PKA,Marketing (Một số học phần chuyên ngành học bằng tiếng Anh),"A01,B08,D01,D07,D09,D10",12.49,14.25
+PKA,Ngôn ngữ Anh,"A01,D01,D09,D10",13.07,14.25
+PKA,Ngôn ngữ Hàn Quốc,"A01,D01,D09,D10",13.32,14.25
+PKA,Ngôn ngữ Nhật,"A01,D01,D06,D09,D10,D15",12.38,12.75
+PKA,Ngôn ngữ Pháp,"A01,D01,D03,D09",12.77,12.75
+PKA,Ngôn ngữ Trung Quốc,"A01,D01,D04,D09",15.06,16.5
+PKA,Đông Phương học,"C00,C03,C19,D01,D14",12.48,12.75
+PKA,Quản lý bệnh viện,"A00,A01,A02,B00,B03,D01",13.86,12.75
+PKA,Quản trị khách sạn,"A00,C03,D01,D09,D10",13.49,14.25
+PKA,Quản trị kinh doanh,"A00,A01,A07,A08,D01,D07",13.14,14.25
+PKA,Quản trị nhân lực,"A00,A01,A07,A08,D01,D07",14.21,15.0
+PKA,Răng - Hàm - Mặt,"A00,B00,B03,B08,C02,D07",20.36,22.5
+PKA,Tài chính - Ngân hàng,"A00,A01,B00,B04,D01,D07",14.31,15.0
+PKA,Tài năng Khoa học máy tính,"A00,A01,D07",22.84,23.0
+PKA,Thương mại điện tử,"A00,A01,D01,D07",12.52,13.5
+PKA,Trí tuệ nhân tạo,"A00,A01,D01,D07",15.41,15.75
+PKA,Vật liệu thông minh và trí tuệ nhân tạo,"A00,A01,B00,D07",19.98,20.0
+PKA,Vật liệu tiên tiến và Công nghệ nano,"A00,A01,B00,D07",20.19,20.0
+PKA,Y học cổ truyền,"A00,B00,B03,B08,C02,D07",20.16,21.0
+PKA,Y khoa,"A00,B00,B03,B08,C02,D07",21.35,22.5
+QHF,Kinh tế - Tài chính,"A01,D01,D07,D08,D14,D15",11.55,11.3
+QHI,Cơ kỹ thuật,"A00,A01,D01",20.6,19.61
+QHI,Công nghệ hàng không vũ trụ,"A00,A01,D01",19.45,17.97
+QHI,Công nghệ kỹ thuật xây dựng,"A00,A01,D01",18.47,16.69
+QHI,Công nghệ nông nghiệp,"A00,A01,D01,B00",17.11,16.5
+QHI,Công nghệ thông tin,"A00,A01,D01",21.25,21.14
+QHI,Hệ thống thông tin,"A00,A01,D01",19.94,19.78
+QHI,Khoa học máy tính,"A00,A01,D01",20.98,20.9
+QHI,Kỹ thuật điều khiển và tự động hóa,"A00,A01,D01",21.74,20.92
+QHI,Kỹ thuật máy tính,"A00,A01,D01",20.37,20.25
+QHI,Kỹ thuật năng lượng,"A00,A01,D01",19.6,18.65
+QHI,Kỹ thuật Robot,"A00,A01,D01",19.61,19.5
+QHI,Mạng máy tính và truyền thông dữ liệu,"A00,A01,D01",20.16,20.05
+QHI,Thiết kế công nghiệp và Đồ họa,"A00,A01,D01",19.55,18.15
+QHI,Trí tuệ nhân tạo,"A00,A01,D01",20.9,20.81
+QHI,Vật lý kỹ thuật,"A00,A01,D01",20.34,18.9
+QHS,Giáo dục Mầm non,"A00,B00,C00,D01,C14",21.86,20.85
+QHS,Giáo dục Tiểu học,"A00,B00,C00,D01,C14",22.24,21.45
+QHS,Khoa học giáo dục và khác,"A00,A01,B00,C00,D01,C14",20.87,19.18
+QHT,Công nghệ kỹ thuật hạt nhân,"A00,A01,A02,B00,C01,C02,D07",23.44,23.5
+QHT,Công nghệ kỹ thuật hoá học,"A00,A05,A06,B00,C02,D07",23.89,23.45
+QHT,Công nghệ kỹ thuật môi trường,"A00,A01,A02,B00,B03,C01,C02,D01,D07,D08",17.23,16.16
+QHT,Công nghệ sinh học,"A00,A02,B00,B01,B02,B03,B08,D07,D08",22.91,22.05
+QHT,Hải dương học,"A00,A01,A02,A04,A06,B00,B02,B03,B08,C01,C02,C04,D01,D07,D10",15.98,16.12
+QHT,Hoá dược,"A00,A05,A06,B00,C02,D07",24.37,23.7
+QHT,Hoá học,"A00,A05,A06,B00,C02,D07",23.47,23.9
+QHT,Địa chất học,"A00,A01,A04,A06,A07,B00,B03,C01,C02,C04,D01,D07,D08,D09,D10",16.34,16.54
+QHT,Địa lý tự nhiên,"A00,A01,A04,A06,A07,B00,B02,C04,D01,D10",19.2,17.96
+QHT,Khí tượng và khí hậu học,"A00,A01,A02,A04,A06,B00,B02,B03,B08,C01,C02,C04,D01,D07,D10",17.42,17.1
+QHT,Khoa học môi trường,"A00,A01,A02,B00,B03,C01,C02,D01,D07,D08",17.13,15.94
+QHT,Khoa học thông tin địa không gian,"A00,A01,A04,A06,A07,B00,B02,C04,D01,D10",18.96,17.62
+QHT,Khoa học và công nghệ thực phẩm,"A00,A01,A02,B00,B03,C01,C02,D01,D07,D08",16.74,17.1
+QHT,Khoa học vật liệu,"A00,A01,A02,B00,C01,C02,D07",24.15,24.2
+QHT,Kỹ thuật điện tử và tin học,"A00,A01,A02,B00,C01,C02,D07",24.54,24.57
+QHT,"Môi trường, sức khỏe và an toàn","A00,A01,A02,B00,B03,C01,C02,D01,D07,D08",17.01,15.9
+QHT,Quản lý đất đai,"A00,A01,A04,A06,A07,B00,B02,C04,D01,D10",16.71,16.7
+QHT,Quản lý phát triển đô thị và bất động sản,"A00,A01,A04,A06,A07,B00,B02,C04,D01,D10",18.21,17.18
+QHT,Quản lý tài nguyên và môi trường,"A00,A01,A04,A06,A07,B00,B03,C01,C02,C04,D01,D07,D08,D09,D10",17.74,16.65
+QHT,Sinh dược học,"A00,A02,B00,B01,B02,B03,B08,D07,D08",20.5,20.1
+QHT,Sinh học,"A00,A02,B00,B01,B02,B03,B08,D07,D08",20.96,20.05
+QHT,Tài nguyên và môi trường nước,"A00,A01,A02,A04,A06,B00,B02,B03,B08,C01,C02,C04,D01,D07,D10",16.82,15.83
+QHT,Vật lý học,"A00,A01,A02,B00,C01,C02,D07",24.97,24.65
+QHX,Báo chí,"D01,C03,C00,C04,D15,D14",19.24,18.52
+QHX,Chính trị học,"D01,C03,C00,D15,C04,D14",19.0,19.4
+QHX,Công tác xã hội,"D14,D01,C03,C00,D15,C04",18.37,18.74
+QHX,Hán Nôm,"D04,C04,D15,D14,C03,D01,C00",19.16,19.32
+QHX,Điện ảnh và nghệ thuật đại chúng,"D15,C04,D14,D01,C03,C00",19.13,18.98
+QHX,Khoa học quản lý,"C04,D15,D14,C03,D01,C00",19.79,18.51
+QHX,Lịch sử,"C00,C04,D15,D14,C03,D01",19.76,20.48
+QHX,Lưu trữ học,"C03,C00,C04,D01,D15,D14",18.31,18.78
+QHX,Ngôn ngữ học,"C03,C00,C04,D01,D15,D14",19.95,19.31
+QHX,Nhân học,"D14,D15,C03,C00,C04,D01",18.36,18.6
+QHX,Nhật Bản học,"D06,D01",16.68,16.31
+QHX,Đông Nam Á học,"D15,D14,D01",17.71,17.44
+QHX,Đông phương học,"C04,D15,D14,C03,D01,C00,D04",19.74,19.12
+QHX,Quan hệ công chúng,"D15,C03,C00,D14,C04,D01",19.96,19.46
+QHX,Quản lý thông tin,"D15,C00,C03,C04,D14,D01",19.91,18.74
+QHX,Quản trị dịch vụ du lịch và lữ hành,"D15,C00,C03,C04,D14,D01",19.3,18.65
+QHX,Quản trị khách sạn,"D15,C00,C03,C04,D14,D01",19.12,18.37
+QHX,Quản trị văn phòng,"D01,D15,C00,C03,C04,D14",19.42,18.7
+QHX,Quốc tế học,"D01,D15,C00,C03,D14,C04",17.91,17.25
+QHX,Tâm lý học,"D14,C04,D01,D15,C00,C03",20.41,19.5
+QHX,Thông tin - Thư viện,"D14,C04,D01,D15,C00,C03",18.02,18.31
+QHX,Tôn giáo học,"C00,C03,C04,D14,D01,D15",18.37,18.75
+QHX,Triết học,"C00,C03,D14,C04,D01,D15",19.01,19.42
+QHX,Văn hóa học,"D15,C00,C03,D14,C04,D01",19.35,18.92
+QHX,Văn học,"D15,C00,C03,D14,C04,D01",19.74,19.12
+QHX,Việt Nam học,"C00,D15,C03,D14,C04,D01",19.26,19.96
+QHX,Xã hội học,"D01,C00,D15,D14,C03,C04",18.09,18.38
+QHY,Dược học,"A00,D07",23.89,23.09
+QHY,Điều dưỡng,"B00,D08",20.48,19.0
+QHY,Kĩ thuật hình ảnh y học,"B00,D08",20.81,20.35
+QHY,Kĩ thuật xét nghiệm y học,"B00,D08",22.45,21.75
+QHY,Răng hàm mặt,"B00,D08",26.94,26.99
+QHY,Y khoa,"B00,D08",27.55,27.43
+SPH,Công nghệ thông tin,"A00,A01",20.89,20.6
+SPH,Công tác xã hội,"C00,D14",25.86,26.04
+SPH,Giáo dục đặc biệt,"C00,D01",21.16,20.66
+SPH,Giáo dục Quốc phòng và An ninh,"C00,D01",21.0,20.45
+SPH,Giáo dục Tiểu học,D01,19.69,18.83
+SPH,Giáo dục Tiểu học - Sư phạm Tiếng Anh,D01,19.6,18.74
+SPH,Hỗ trợ giáo dục người khuyết tật,"C00,D01",20.14,18.96
+SPH,Hóa học,"A00,B00,D07",24.28,23.0
+SPH,Ngôn ngữ Anh,D01,19.7,18.39
+SPH,Ngôn ngữ Trung Quốc,"D01,D04",20.56,20.07
+SPH,Quản lí giáo dục,"C03,D01",19.62,18.51
+SPH,Quản trị dịch vụ du lịch và lữ hành,"D01,D14",16.44,15.19
+SPH,Sinh học,"B00,B08",20.56,19.0
+SPH,Sư phạm Công nghệ,"A00,A01",22.53,21.75
+SPH,Sư phạm Hoá học,"A00,B00,D07",29.08,28.37
+SPH,Sư phạm Khoa học tự nhiên,"A00,B00",27.83,27.06
+SPH,Sư phạm Lịch sử,"C00,D14",29.1,29.06
+SPH,Sư phạm Ngữ văn,"C00,D01",21.76,21.36
+SPH,Sư phạm Sinh học,"B00,D08",26.97,26.27
+SPH,Sư phạm Tiếng Anh,D01,20.25,19.72
+SPH,Sư phạm Tiếng Pháp,"D01,D03",20.84,20.36
+SPH,Sư phạm Tin học,"A00,A01",25.78,24.85
+SPH,Sư phạm Toán học,"A00,A01,D01",21.77,21.2
+SPH,Sư phạm Vật lí,"A00,A01",29.01,28.31
+SPH,Tâm lý học (Tâm lý học trường học),"D01,D14,D15",19.62,17.42
+SPH,Tâm lý học giáo dục,"D01,D14,D15",19.23,17.81
+SPH,Toán học,"A00,A01",26.54,25.5
+SPH,Triết học (Triết học Mác Lê-nin),"C00,D14",24.64,24.68
+SPH,Văn học,"C00,D01",21.39,20.73
+SPH,Việt Nam học (Tuyển sinh người Việt Nam),"D01,D14",17.29,15.0
+TLA,An ninh mạng,"A00,A01,D01,D07,C01",16.7,16.53
+TLA,Công nghệ kỹ thuật xây dựng,"A00,A01,D01,D07,C01,C02",16.43,14.61
+TLA,Công nghệ sinh học,"A02,B00,D08,B01,B02,B03",19.87,18.76
+TLA,Công nghệ thông tin,"A00,A01,D01,D07,C01",17.53,17.42
+TLA,Hệ thống thông tin,"A00,A01,D01,D07,C01",16.48,16.31
+TLA,Kế toán,"A00,A01,D01,D07",17.47,16.69
+TLA,Kiểm toán,"A00,A01,D01,D07",16.92,16.08
+TLA,Kinh tế,"A00,A01,D01,D07",17.26,16.43
+TLA,Kinh tế số,"A00,A01,D01,D07",17.5,16.58
+TLA,Kinh tế xây dựng,"A00,A01,D01,D07",16.25,15.55
+TLA,Kỹ thuật cấp thoát nước,"A00,A01,D01,D07,C01,C02",14.49,13.5
+TLA,Kỹ thuật cơ điện tử,"A00,A01,D01,D07,C01",18.96,17.5
+TLA,Kỹ thuật hóa học,"A00,D07,C02,C05,B00",21.75,20.5
+TLA,Kỹ thuật điện,"A00,A01,D01,D07,C01",18.04,16.5
+TLA,Kỹ thuật điện tử - viễn thông (gồm các chương trình: Kỹ thuật điện tử -viễn thông; Công nghệ bán dẫn và thiết kế vi mạch),"A00,A01,D01,D07,C01",18.52,16.88
+TLA,Kỹ thuật điều khiển và tự động hóa,"A00,A01,D01,D07,C01",19.43,18.08
+TLA,Kỹ thuật môi trường,"A00,A01,D01,D07,C01,C02",15.29,13.31
+TLA,Kỹ thuật ô tô,"A00,A01,D01,D07,C01",18.58,16.88
+TLA,Kỹ thuật phần mềm,"A00,A01,D01,D07,C01",16.33,16.16
+TLA,Kỹ thuật Robot và Điều khiển thông minh,"A00,A01,D01,D07,C01",16.06,15.86
+TLA,Kỹ thuật tài nguyên nước,"A00,A01,D01,D07,C01,C02",14.79,13.87
+TLA,"Kỹ thuật xây dựng công trình giao thông (gồm các chương trình: Công nghệ và kỹ thuật xây dựng cầu, đường; Công nghệ và kỹ thuật Đường sắt tốc độ cao và đường sắt đô thị)","A00,A01,D01,D07,C01,C02",15.72,13.88
+TLA,Kỹ thuật xây dựng dân dụng và công nghiệp (Kỹ thuật xây dựng),"A00,A01,D01,D07,C01,C02",15.85,14.07
+TLA,Logistics và quản lý chuỗi cung ứng,"A00,A01,D01,D07",18.08,17.25
+TLA,Luật,"C00,C03,C04,D01,D14,D15",19.97,18.88
+TLA,Luật kinh tế,"C00,C03,C04,D01,D14,D15",19.45,19.12
+TLA,Ngôn ngữ Anh,"A01,D01,D07,D08,D09,D10,D14,D15",17.37,16.94
+TLA,Ngôn ngữ Trung Quốc,"D01,D04",19.4,19.09
+TLA,Quản lý xây dựng,"A00,A01,D01,D07,C01,C02",16.69,14.97
+TLA,Quản trị dịch vụ du lịch và lữ hành,"A01,D01,D07,D09,D10",16.42,16.11
+TLA,Quản trị kinh doanh,"A00,A01,D01,D07",17.27,16.58
+TLA,Tài chính - Ngân hàng,"A00,A01,D01,D07",17.57,16.7
+TLA,Tài nguyên nước và môi trường (Thủy văn học),"A00,A01,D01,D07,C01,C02",15.31,13.5
+TLA,Thương mại điện tử,"A00,A01,D01,D07",17.98,17.24
+TLA,Trí tuệ nhân tạo và khoa học dữ liệu,"A00,A01,D01,D07,C01",16.77,16.59
+TLA,Xây dựng và quản lý hạ tầng đô thị (Kỹ thuật cơ sở hạ tầng),"A00,A01,D01,D07,C01,C02",16.03,14.25
+TMU,Hệ thống thông tin quản lý (Quản trị Hệ thống thông tin),"A00,A01,D01,D07,D09,D10",18.29,18.6
+TMU,Kế toán (Kế toán doanh nghiệp),"A00,A01,D01,D07,D09,D10",19.69,19.35
+TMU,Kiểm toán (Kiểm toán),"A00,A01,D01,D07,D09,D10",19.58,19.27
+TMU,Kinh doanh quốc tế (Thương mại quốc tế),"A00,A01,D01,D07,D09,D10",20.23,20.1
+TMU,Kinh tế (Quản lý kinh tế),"A00,A01,D01,D07,D09,D10",19.28,18.83
+TMU,Kinh tế quốc tế (Kinh tế quốc tế),"A00,A01,D01,D07",20.18,19.95
+TMU,Kinh tế số (Phân tích kinh doanh trong môi trường số),"A00,A01,D01,D07",19.27,18.83
+TMU,Logistics và Quản lý chuỗi cung ứng (Logistics và Quản lý chuỗi cung ứng),"A00,A01,D01,D07,D09,D10",20.73,20.85
+TMU,Luật kinh tế (Luật kinh tế),"A00,A01,D01,D07,D09,D10",19.41,19.05
+TMU,Marketing (Marketing Thương mại),"A00,A01,D01,D07,D09,D10",20.7,20.48
+TMU,Ngôn ngữ Anh (Tiếng Anh thương mại),"A01,D01,D07",19.22,19.58
+TMU,Ngôn ngữ Trung Quốc (Tiếng Trung thương mại),"A01,D01,D04,D07",19.7,20.55
+TMU,Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành),"A00,A01,D01,D07",19.2,18.6
+TMU,Quản trị khách sạn (Quản trị khách sạn),"A00,A01,D01,D07,D09,D10",19.5,19.05
+TMU,Quản trị kinh doanh (Quản trị kinh doanh),"A00,A01,D01,D07,D09,D10,D03",19.59,19.35
+TMU,Quản trị nhân lực (Quản trị nhân lực doanh nghiệp),"A00,A01,D01,D07,D09,D10",19.52,19.2
+TMU,Tài chính - Ngân hàng (Tài chính - Ngân hàng thương mại),"A00,A01,D01,D07,D09,D10",19.86,19.58
+TMU,Thương mại điện tử (Quản trị thương mại điện tử),"A00,A01,D01,D07,D09,D10",20.46,20.7
+XDA,Công nghệ kỹ thuật vật liệu xây dựng,"A00,A01,A02,B00,C01,C02,D07",23.53,23.3
+XDA,Công nghệ thông tin,"A00,A01,C01,D01,D07",19.09,19.2
+XDA,Công nghệ thông tin/ Công nghệ đa phương tiện,"A00,A01,C01,D01,D07",19.16,18.83
+XDA,Khoa học máy tính,"A00,A01,C01,D01,D07",19.24,19.12
+XDA,Kinh tế xây dựng,"A00,A01,C01,D01,D07",19.55,18.67
+XDA,Kỹ thuật Cấp thoát nước/ Kỹ thuật nước - Môi trường nước,"A00,A01,A02,B00,C01,C02,D07",22.1,21.65
+XDA,Kỹ thuật cơ khí,"A00,A01,C01,D07",25.73,25.6
+XDA,Kỹ thuật cơ khí/ Kỹ thuật cơ điện,"A00,A01,C01,D07",25.5,25.3
+XDA,Kỹ thuật cơ khí/ Kỹ thuật ô tô,"A00,A01,C01,D07",25.53,25.4
+XDA,Kỹ thuật cơ khí/ Máy xây dựng,"A00,A01,C01,D07",23.46,23.4
+XDA,Kỹ thuật điện,"A00,A01,C01,D07",25.87,25.75
+XDA,Kỹ thuật Môi trường,"A00,A01,A02,B00,C01,C02,D07",23.06,23.0
+XDA,Kỹ thuật vật liệu,"A00,A01,A02,B00,C01,C02,D07",24.55,24.3
+XDA,Kỹ thuật xây dựng,"A00,A01,C01,D01,D07",19.13,17.89
+XDA,Kỹ thuật xây dựng/ Hệ thống kỹ thuật trong công trình,"A00,A01,C01,D07",23.41,23.25
+XDA,Kỹ thuật xây dựng/ Kỹ thuật công trình biển,"A00,A01,C01,D01,D07",18.46,16.8
+XDA,Kỹ thuật xây dựng/ Tin học xây dựng,"A00,A01,C01,D01,D07",19.29,17.89
+XDA,Kỹ thuật xây dựng/ Xây dựng Dân dụng và Công nghiệp,"A00,A01,C01,D07",24.21,24.0
+XDA,Kỹ thuật xây dựng công trình Giao thông/ Xây dựng Cầu đường,"A00,A01,C01,D01,D07",18.97,17.25
+XDA,Logistics và Quản lý chuỗi cung ứng,"A00,A01,C01,D01,D07",20.17,19.5
+XDA,Logistics và Quản lý chuỗi cung ứng/ Logistics đô thị,"A00,A01,C01,D01,D07",20.0,19.2
+XDA,Quản lý dự án,"A00,A01,C01,D01,D07",20.44,18.41
+XDA,Quản lý xây dựng/ Kiểm toán đầu tư xây dựng,"A00,A01,C01,D01,D07",19.16,18.26
+XDA,Quản lý xây dựng/ Kinh tế và quản lý bất động sản,"A00,A01,C01,D01,D07",18.64,17.74
+XDA,Quản lý xây dựng/ Kinh tế và quản lý đô thị,"A00,A01,C01,D01,D07",18.97,18.08
+XDA,"Quản lý xây dựng/ Quản lý hạ tầng, đất đai đô thị","A00,A01,C01,D01,D07",18.08,17.62
+YHB,Dinh dưỡng,"A00,B00",20.23,18.75
+YHB,Hộ sinh,"A00,B00",21.65,20.35
+YHB,Điều dưỡng Phân hiệu Thanh Hóa,"A00,B00",17.7,17.0
+YHB,Khúc xạ nhãn khoa,"A00,B00",23.66,23.23
+YHB,Kỹ thuật phục hồi chức năng,"A00,B00",23.64,22.5
+YHB,Kỹ thuật phục hồi chức năng Phân hiệu Thanh Hóa,"A00,B00",17.95,17.3
+YHB,Kỹ thuật xét nghiệm y học,"A00,B00",24.5,23.72
+YHB,Kỹ thuật xét nghiệm y học Phân hiệu Thanh Hóa,"A00,B00",19.22,18.35
+YHB,Tâm lý học,"B00,C00,D01",18.86,17.78
+YHB,Y học cổ truyền,B00,24.05,23.5
+YHB,Y học dự phòng,B00,18.49,17.0
+YHB,Y khoa,B00,28.28,28.13
+YHB,Y khoa Phân hiệu Thanh Hóa,B00,25.81,25.8
+YHB,Y tế công cộng,"B00,B08,D01",13.99,13.65
+YTC,Công tác xã hội,"C00,C20,D01,D14,D15",18.16,17.62
+YTC,Dinh dưỡng,"B00,B03,B08,C02,D01,D07",17.34,16.58
+YTC,Khoa học dữ liệu,"A00,A01,B00,D01,D07",13.69,14.25
+YTC,Kỹ thuật phục hồi chức năng,"A00,A01,B00,B08,C01,D01",15.52,15.19
+YTC,Kỹ thuật xét nghiệm y học,"A00,A01,B00,B08,D01,D07",14.63,13.73
+YTC,Y tế công cộng,"B00,B03,B08,C02,D01,D13",15.83,15.37
